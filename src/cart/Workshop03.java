@@ -24,7 +24,7 @@ public class Workshop03 {
                     // save cart of user
                     break;
                 case "users":
-                    // display list of users
+                    // print list of users
                     break;
                 case "list":
                     listCart(cart);
